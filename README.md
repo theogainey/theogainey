@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Starting January 2022 I am a Full Stack Developer Apprentice at⚡[Sparkbox](https://sparkbox.com/)
+#### I am a Full Stack Developer Apprentice at⚡[Sparkbox](https://sparkbox.com/)
 
 **2022 Goals**
 - :pencil: Learn lots and document it well
