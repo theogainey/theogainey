@@ -6,4 +6,4 @@
 - :open_book: Read something everyday that isnt tech releated or the news  
 - :man_technologist: Make the jump from apprentice to full time developer
 
-**Let's connect**: [Twitter](https://twitter.com/GaineyTheo) • [Website](https://theogainey.com)
+**Let's connect**: [Twitter](https://twitter.com/GaineyTheo) • [CodePen](https://codepen.io/theogainey) • [Website](https://theogainey.com)
